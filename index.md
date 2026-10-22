@@ -10,7 +10,7 @@ image:
 
 The 4th Michigan Cosmology Summer School will cover areas of cosmology, focusing on the interface of data and theory. The format will be hybrid, with participants expected to attend in person but open to online participation as well. Outdoor activities will be organized. For more information, click on the horizontal bars on the top right of this page. 
 <br>
-The Summer School is sponsored by [Leinweber Institute for Theoretical Physics](https://lsa.umich.edu/lctp) at the University of Michigan. 
+The Summer School is sponsored by [Leinweber Institute for Theoretical Physics](https://lsa.umich.edu/litp) at the University of Michigan. 
 <br>
 The lectures will be live-streamed on YouTube; link is TBA.
 
