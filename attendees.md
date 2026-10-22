@@ -12,6 +12,6 @@ image:
 |Richard Feynman               |University of Michigan
 
 
-**In-person attendees - Michigan personnels:**
+**In-person attendees - locals:**
 
 |Murray Gell-Mann               |University of Michigan
