@@ -7,6 +7,5 @@ image:
     caption: "Image Credit: Mansfield & Diemer"
 ---
 
-Preliminary program as of 3 Jun, 2025. All times are EDT (so same as e.g. New York).
-
-<img src="https://huterer.github.io/cosmology-school-2025/assets/images/program_3Jun.jpg"  alt="Preliminary Program">   
+Preliminary program is TBA. All times are EDT (so same as e.g. New York).
+ 
