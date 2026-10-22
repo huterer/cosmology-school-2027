@@ -15,5 +15,3 @@ image:
 **In-person attendees - Michigan personnels:**
 
 |Dragan Huterer                |University of Michigan
-
-|Qianran Xia                   |University of Michigan
