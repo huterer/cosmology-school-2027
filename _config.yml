@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: Michigan Cosmology Summer School 2025
+title: Michigan Cosmology Summer School 2027
 email: huterer@umich.edu
-description: "Michigan Cosmology Summer School 2025"
-baseurl: /cosmology-school-2025 # the subpath of your site, e.g. /blog, /~cosmology/summer-school-2025 for the UMich version
+description: "Michigan Cosmology Summer School 2027"
+baseurl: /cosmology-school-2027 # the subpath of your site, e.g. /blog, /~cosmology/summer-school-2027 for the UMich version
 url: # the base hostname & protocol for your site, e.g. http://example.com
 author:
   name: Dragan Huterer
