@@ -2,7 +2,7 @@
 layout: page
 paginate: false
 title: "Michigan Cosmology Summer School 2027"
-sub_title: "June 2-6, 2025 in Ann Arbor, Michigan"
+sub_title: "June 14-18, 2027 in Ann Arbor, Michigan"
 image:
     path: /assets/images/DESI_slice_for_banner_thin.jpg
     caption: "Image Credit: DESI collaboration"
