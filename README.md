@@ -1,1 +1,1 @@
-# cosmology-school-2025
+# cosmology-school-2027
