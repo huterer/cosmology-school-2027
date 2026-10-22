@@ -9,9 +9,9 @@ image:
 
 **In-person attendees:**
 
-|Richard Feynman               |Caltech
+|Richard Feynman               |University of Michigan
 
 
 **In-person attendees - Michigan personnels:**
 
-|Dragan Huterer                |University of Michigan
+|Murray Gell-Mann               |University of Michigan
