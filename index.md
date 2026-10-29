@@ -22,5 +22,5 @@ The lectures will be live-streamed on YouTube; link is TBA.
 
 
 
-Local Organizing Committee: Dragan Huterer (chair), Camille Avestruz, Gus Evrard, Elena Rasia, Ming Feng Ho, Hernan Noriega, plus graduate students
+Local Organizing Committee: Dragan Huterer (chair), Camille Avestruz, Gus Evrard, Elena Rasia, Ming Feng Ho, Hernan Noriega, Erik Peterson, plus graduate students
 
